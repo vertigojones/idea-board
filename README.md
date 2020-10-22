@@ -1,1 +1,1 @@
-This is a MERN stack app using a more modern approach to Node.js and Express.js, with full CRUD on two models (Users and Ideas). It is currently only back end data, with nothing yet on the client side.
+This is a MERN stack app using a more modern approach to Node.js and Express.js, with full CRUD on two models (Users and Ideas). It is currently only back end data, with nothing yet on the client side. Still needs the front end working on.
